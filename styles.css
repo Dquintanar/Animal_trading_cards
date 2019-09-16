@@ -4,3 +4,20 @@
     height: 850px;
     background-color: #4d7e80;
 }
+
+.container2 {
+    background-color: #FFFFFF;
+    border-style: double;
+    border-color: #73008c;
+    border-width: 1px;
+    position: relative;
+    left: 450px;
+    top: 40px;
+    width: 360px;
+    height: 775px;
+}
+
+.name {
+    padding-bottom: 15px;
+    margin: 12px;
+}
