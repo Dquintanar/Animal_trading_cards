@@ -21,3 +21,21 @@
     padding-bottom: 15px;
     margin: 12px;
 }
+
+.container3 {
+    background-color: #FFFFFF;
+    border-color: #a8b3bd;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 6px 6px 5px #d3d3d3;
+    width: 325px;
+    height: 727px;
+    padding-bottom: 15px;
+    margin: 10px;
+}
+
+
+
+.image {
+    padding-bottom: 15px;
+}
