@@ -39,3 +39,11 @@
 .image {
     padding-bottom: 15px;
 }
+
+.container4 {
+    border-color: #a8b3bd;
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 480px;
+}
